@@ -1,4 +1,4 @@
-var = 100
-var =200
-var =400
-var =500
+var x= 100
+var y=200
+var  z=400
+var a=500
